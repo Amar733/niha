@@ -29,7 +29,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = "django-insecure-a$(5=+&z0#3*2-uzixs!%85ayg+7dy5*l14b9$^4i)0#7n(3(k"
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['resume-django.onrender.com']
 
